@@ -1,0 +1,6 @@
+This will be a text file that I will use to track my schedule of goals related to The Odin Project and my eventual move into web development & coding as a viable professional option.
+
+The goal will be to complete 1 lesson in The Odin Project (henceforth referred to as "ToP") each and every day to ensure continually advancement is achieved. If more lessons are completed, that is great but will not curtail the 1 lesson every single day goal imposed.
+
+3/17/2024
+GIT lesson completed
